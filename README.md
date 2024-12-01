@@ -31,13 +31,4 @@ you'd find me with my chess board..
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
 
-### Socials
 
-<p align="left"> <a href="https://www.github.com/devnabibia" target="_blank" rel="noreferrer"><img src="https://raw.gith
-ubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://
-https://forjessicasake.hashnode.dev/.hashnode.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/da
-nielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/jes
-si
-ca-joseph-/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/
-socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/forJessica_sake" target="_blank" rel="noreferrer"><img 
-src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
