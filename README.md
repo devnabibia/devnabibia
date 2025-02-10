@@ -1,7 +1,7 @@
 ## Hello 👋🏼, I'm devnabibia
 
 I am a detail-oriented **Software Engineer** who loves building quality applications using JavaScript, python, typescript and its frameworks.
-I started my journey in 2021, after attending my first tech event with Andela, a community I joined while studying computer science at Rongo University.
+I started my journey in 2016, after attending my first tech event with Andela, a community I joined while studying computer science at Rongo University.
 
 Since graduation, I've put my skills to the test and gained hands-on Frontend and backend work experience by contributing to a couple of projects.
 I also frequently publish a variety of articles about my experiences as a Guest Writer or on my [medium blog](https://medium.com/devnabibia) and when I'm not doing any of these things,
